@@ -262,3 +262,44 @@
 [2023-01-10 10:20:52 submission.py:70] INFO     train: True
 [2023-01-10 10:20:52 submission.py:70] INFO     train_bsize: 8
 [2023-01-10 10:20:52 submission.py:70] INFO     with_cspn: True
+[2023-01-10 10:31:39 submission.py:70] INFO     conv_3d_types1: separate_only
+[2023-01-10 10:31:39 submission.py:70] INFO     conv_3d_types2: separate_only
+[2023-01-10 10:31:39 submission.py:70] INFO     cost_volume: Difference
+[2023-01-10 10:31:39 submission.py:70] INFO     datapath: /data6/wsgan/SenceFlow/train/
+[2023-01-10 10:31:39 submission.py:70] INFO     datapath2012: /Users/Divya/Downloads/kitti12/testing/
+[2023-01-10 10:31:39 submission.py:70] INFO     datatype: 2012
+[2023-01-10 10:31:39 submission.py:70] INFO     epochs: 50
+[2023-01-10 10:31:39 submission.py:70] INFO     loss_weights: [1.0, 1.0]
+[2023-01-10 10:31:39 submission.py:70] INFO     lr: 0.0005
+[2023-01-10 10:31:39 submission.py:70] INFO     maxdisp: 192
+[2023-01-10 10:31:39 submission.py:70] INFO     maxdisplist: [24, 3, 3]
+[2023-01-10 10:31:39 submission.py:70] INFO     model_types: original
+[2023-01-10 10:31:39 submission.py:70] INFO     pretrained: \Users\Divya\Downloads\BIG LN (1)\BIG LN\results\checkpoint_49.tar
+[2023-01-10 10:31:39 submission.py:70] INFO     print_freq: 400
+[2023-01-10 10:31:39 submission.py:70] INFO     resume: None
+[2023-01-10 10:31:39 submission.py:70] INFO     save_path: ./results/kitti2012/benchmark
+[2023-01-10 10:31:39 submission.py:70] INFO     test_bsize: 8
+[2023-01-10 10:31:39 submission.py:70] INFO     train: True
+[2023-01-10 10:31:39 submission.py:70] INFO     train_bsize: 8
+[2023-01-10 10:31:39 submission.py:70] INFO     with_cspn: True
+[2023-01-10 10:37:16 submission.py:70] INFO     conv_3d_types1: separate_only
+[2023-01-10 10:37:16 submission.py:70] INFO     conv_3d_types2: separate_only
+[2023-01-10 10:37:16 submission.py:70] INFO     cost_volume: Difference
+[2023-01-10 10:37:16 submission.py:70] INFO     datapath: /data6/wsgan/SenceFlow/train/
+[2023-01-10 10:37:16 submission.py:70] INFO     datapath2012: /Users/Divya/Downloads/kitti12/testing/
+[2023-01-10 10:37:16 submission.py:70] INFO     datatype: 2012
+[2023-01-10 10:37:16 submission.py:70] INFO     epochs: 50
+[2023-01-10 10:37:16 submission.py:70] INFO     loss_weights: [1.0, 1.0]
+[2023-01-10 10:37:16 submission.py:70] INFO     lr: 0.0005
+[2023-01-10 10:37:16 submission.py:70] INFO     maxdisp: 192
+[2023-01-10 10:37:16 submission.py:70] INFO     maxdisplist: [24, 3, 3]
+[2023-01-10 10:37:16 submission.py:70] INFO     model_types: original
+[2023-01-10 10:37:16 submission.py:70] INFO     pretrained: \Users\Divya\Downloads\BIG LN (1)\BIG LN\results\checkpoint_49.tar
+[2023-01-10 10:37:16 submission.py:70] INFO     print_freq: 400
+[2023-01-10 10:37:16 submission.py:70] INFO     resume: None
+[2023-01-10 10:37:16 submission.py:70] INFO     save_path: ./results/kitti2012/benchmark
+[2023-01-10 10:37:16 submission.py:70] INFO     test_bsize: 8
+[2023-01-10 10:37:16 submission.py:70] INFO     train: True
+[2023-01-10 10:37:16 submission.py:70] INFO     train_bsize: 8
+[2023-01-10 10:37:16 submission.py:70] INFO     with_cspn: True
+[2023-01-10 10:37:21 submission.py:86] INFO     => loaded pretrained model \Users\Divya\Downloads\BIG LN (1)\BIG LN\results\checkpoint_49.tar
